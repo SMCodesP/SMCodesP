@@ -1,14 +1,18 @@
-### Hi friends!!
+# Samuel Pereira da Silva
+
+### Hi my friends!!
 
 #### My studies
 
 I am currently learning to analyze and design a system and trying to continue studying javascript with react.js (next.js), node.js and reactnative and java for very specific projects.
 
+[![My LikedIn](https://img.shields.io/badge/-Samuel%20Pereira%20da%20Silva-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/samuel-pereira-da-silva-947bb31a5/)](https://br.linkedin.com/in/samuel-pereira-da-silva-947bb31a5/)
+
 #### Colaborate
 
 I'm not good at collaborating on public repositories, but sometimes I try to help with matters I don't know yet, so you can call me on my discord I would be very grateful.
 
-[![Created by](https://img.shields.io/badge/Discord-SMCodes%234207-e02041)](https://discord.com/users/360247173356584960)
+[![Created by SMCodes#4207](https://img.shields.io/badge/-SMCodes%234207-44475a?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/users/360247173356584960)](https://discord.com/users/360247173356584960)
 
 #### Starting my profile
 
