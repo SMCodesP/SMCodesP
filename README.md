@@ -4,7 +4,7 @@
 
 #### My studies
 
-I am currently learning to analyze and design a system and trying to continue studying javascript with react.js (next.js), node.js and reactnative and java for very specific projects.
+I am currently learning to analyze and design a system and trying to continue studying javascript with React.js (Next.js), Node.js, React Native and Java (for very specific projects using in minecraft plugins).
 
 [![My LikedIn](https://img.shields.io/badge/-Samuel%20Pereira%20da%20Silva-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/samuel-pereira-da-silva-947bb31a5/)](https://br.linkedin.com/in/samuel-pereira-da-silva-947bb31a5/)
 
