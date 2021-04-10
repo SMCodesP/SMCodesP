@@ -1,8 +1,8 @@
 ![profile] 
 ![languages]
 
-[profile]: https://github-readme-stats.vercel.app/api?username=SMCodesP&show_icons=true&theme=dracula&count_private=true
-[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=SMCodesP&theme=dracula&layout=compact
+[profile]: https://github-readme-stats.vercel.app/api?username=SMCodesP&show_icons=true&theme=omni&count_private=true
+[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=SMCodesP&theme=omni&layout=compact
 
 # Samuel Pereira da Silva
 
