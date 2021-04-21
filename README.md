@@ -4,6 +4,8 @@
 [profile]: https://github-readme-stats.vercel.app/api?username=SMCodesP&show_icons=true&theme=omni&count_private=true&hide_border=true
 [languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=SMCodesP&theme=omni&layout=compact&hide_border=true
 
+![](https://hit.yhype.me/github/profile?user_id=62559740)
+
 # Samuel Pereira da Silva
 
 ### Hi my friends!!
