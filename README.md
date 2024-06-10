@@ -7,7 +7,7 @@
 
 ### Eu me chamo Samuel
 
-Seja bem-vindo ao meu perfil, atualmente estou usando react com Next.js e React Native como minhas principais ferramentas, e praticando algumas outras...
+Seja bem-vindo ao meu perfil, atualmente estou usando react com Next.js e Django como minhas principais ferramentas, e praticando algumas outras...
 
 <br>
 
