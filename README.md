@@ -21,7 +21,7 @@ Seja bem-vindo ao meu perfil, atualmente estou usando react com Next.js e Django
 </div>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMCodesP&theme=omni&layout=compact&hide_border=true&border_radius=32&bg_color=45,483C67,191622" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMCodesP&theme=omni&layout=compact&hide_border=true&border_radius=32&bg_color=45,483C67,191622&size_weight=0.2&count_weight=0&hide=css,html,vim%20script" />
 </p>
 
 <!-- ![profile] 
